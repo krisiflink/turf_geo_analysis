@@ -1,0 +1,12 @@
+from h3 import h3
+import geopandas as gpd
+geopandas
+geodatasets
+contextily as cx
+matplotlib.pyplot as plt
+pandas
+numpy as np
+shapely
+shapely.geometry
+shapely.ops
+contextily
