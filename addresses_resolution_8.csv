@@ -1,0 +1,31 @@
+city,city_density_rank,supermarket_count,centroid_lat,centroid_lon,address,h3_cell
+Berlin,1,0,52.42982824722308,13.61928385294837,"Müggelseepromenade, Köpenick, Treptow-Köpenick, Berlin, 12559, Deutschland",881f18b465fffff
+Berlin,2,0,52.44085248624421,13.638782920986099,"Köpenick, Treptow-Köpenick, Berlin, Deutschland",881f18b46bfffff
+Berlin,3,0,52.41328371474703,13.590049713400484,"Möllhausenufer, Wendenschloß, Köpenick, Treptow-Köpenick, Berlin, 12557, Deutschland",881f18b543fffff
+Berlin,4,0,52.41157373551569,13.60285729093835,"Sportpromenade, Grünau, Treptow-Köpenick, Berlin, 12527, Deutschland",881f18b555fffff
+Berlin,5,0,52.557170662764506,13.480353367617456,"Piesporter Straße, Weißensee, Pankow, Berlin, 13088, Deutschland",881f1d4f17fffff
+Berlin,6,0,52.44427608676236,13.613155170783967,"Müggelschlößchenweg, Salvador-Allende-Viertel II, Köpenick, Treptow-Köpenick, Berlin, 12559, Deutschland",881f18b717fffff
+Berlin,7,0,52.46724585492438,13.542939620628298,"Freizeit- und Erholungszentrum (FEZ), Ostendstraße, Oberschöneweide, Treptow-Köpenick, Berlin, 12459, Deutschland",881f18b74dfffff
+Berlin,8,0,52.55189694932087,13.313082278368407,"Dachsweg, Quartier Napoleon, Wedding, Mitte, Berlin, 13405, Deutschland",881f1d4853fffff
+Berlin,9,0,52.437052648506324,13.6162198267739,"Strandschloßweg, Köpenick, Treptow-Köpenick, Berlin, 12559, Deutschland",881f18b46dfffff
+Berlin,10,0,52.43875300225432,13.397925304465524,"90, Grüntenstraße, Mariendorf, Tempelhof-Schöneberg, Berlin, Teltow, 12107, Deutschland",881f18b041fffff
+München,1,0,48.16048155279462,11.467504829568629,"46, Meyerbeerstraße, Obermenzing, Pasing-Obermenzing, München, Bayern, 81247, Deutschland",881f8d442dfffff
+München,2,0,48.16727598148839,11.521421054857639,"1, Pegnitzstraße, Gern, Neuhausen, Neuhausen-Nymphenburg, München, Bayern, 80638, Deutschland",881f8d443bfffff
+München,3,0,48.118213041698,11.461951853939182,"Großhaderner Straße, Neuhadern, Hadern, Gräfelfing, Landkreis München, Bayern, 82166, Deutschland",881f8d4533fffff
+München,4,0,48.135104347125896,11.4437896490944,"23, Wiesengrund, Waldkolonie Pasing, Pasing, Pasing-Obermenzing, München, Bayern, 81243, Deutschland",881f8d4503fffff
+München,5,0,48.1706439675394,11.497391368562054,"129, In den Kirschen, Moosach-Bahnhof, Moosach, München, Bayern, 80992, Deutschland",881f8d4407fffff
+München,6,0,48.13342514292168,11.455797107036728,"5b, Am Hackelanger, Waldkolonie Pasing, Pasing, Pasing-Obermenzing, München, Bayern, 81241, Deutschland",881f8d4515fffff
+München,7,0,48.091136603138175,11.65404864582154,"Otto-Hahn-Ring, Neuperlach, Ramersdorf-Perlach, München, Bayern, 81739, Deutschland",881f8d7ae7fffff
+München,8,0,48.10385574219308,11.614966182889631,"12, Peralohstraße, Perlach, Altperlach, Ramersdorf-Perlach, München, Bayern, 81737, Deutschland",881f8d7a39fffff
+München,9,0,48.11908402021507,11.608839435590864,"Rosenheimer Straße, Ramersdorf, Ramersdorf-Perlach, München, Bayern, 81671, Deutschland",881f8d7a0bfffff
+München,10,0,48.118991628545714,11.710823157258757,"Lorenz-Huber-Straße, Gronsdorf, Haar, Landkreis München, Bayern, 85540, Deutschland",881f8d7ad3fffff
+Hamburg,1,0,53.60864507285544,10.087545834004233,"8, Mispelstieg, Bramfeld, Wandsbek, Hamburg, 22179, Deutschland",881f15ac11fffff
+Hamburg,2,0,53.54669312129751,9.909286820017726,"176a, Elbchaussee, Othmarschen, Altona, Hamburg, 22605, Deutschland",881f15324bfffff
+Hamburg,3,0,53.609815840747,9.939213888084176,"78, Schmiedekoppel, Niendorf, Eimsbüttel, Hamburg, 22453, Deutschland",881f15af63fffff
+Hamburg,4,0,53.54805667865545,10.031598429005157,"Betriebssportzentrum ""Claus-Günther Bauermeister"", Victoriakai-Ufer, Hammerbrook, Hamburg-Mitte, Hamburg, 20537, Deutschland",881f15ade5fffff
+Hamburg,5,0,53.553105338268516,10.11518925681981,"2, Heinrich-Stück-Gang, Billstedt, Hamburg-Mitte, Hamburg, 22119, Deutschland",881f15ad97fffff
+Hamburg,6,0,53.622432839414984,9.945206880288698,"Kita Bindfeldweg, 30, Bindfeldweg, Niendorf, Eimsbüttel, Hamburg, 22459, Deutschland",881f15af47fffff
+Hamburg,7,0,53.5756782921475,9.882469560455043,"PETRA III, Bahrenfeld, Altona, Hamburg, 22607, Deutschland",881f15a88dfffff
+Hamburg,8,0,53.577076700903284,10.004820676712372,"24, Bellevue, Winterhude, Hamburg-Nord, Hamburg, 22301, Deutschland",881f15ad57fffff
+Hamburg,9,0,53.51963135060144,10.119519064470243,"76, Billwerder Billdeich, Billwerder, Bergedorf, Hamburg, 22113, Deutschland",881f153757fffff
+Hamburg,10,0,53.59476606032283,10.094460850833356,"16, Bullenkoppel, Wandsbek, Hamburg, 22047, Deutschland",881f15acedfffff

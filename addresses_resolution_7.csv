@@ -1,0 +1,31 @@
+city,city_density_rank,supermarket_count,centroid_lat,centroid_lon,address,h3_cell
+Berlin,1,0,52.47955751026404,13.501411316245976,"kolula SUP, 18, Nalepastraße, Funkhaus Berlin, Oberschöneweide, Treptow-Köpenick, Berlin, 12459, Deutschland",871f18b2dffffff
+Berlin,2,0,52.45358575650948,13.645473987501314,"Wasserwerk Friedrichshagen, 602, Fürstenwalder Damm, Friedrichshagen, Treptow-Köpenick, Berlin, 12587, Deutschland",871f18b44ffffff
+Berlin,3,0,52.41708806432932,13.612601875731597,"Zum Schmetterlingshorst, Köpenick, Treptow-Köpenick, Berlin, 12559, Deutschland",871f18b55ffffff
+Berlin,4,0,52.58046669654085,13.458264478814534,"Sterntalerweg, KGA Märchenland, Blankenburg, Pankow, Berlin, 13088, Deutschland",871f1d4f5ffffff
+Berlin,5,0,52.43534012176373,13.629032991510256,"Kuhwall, Köpenick, Treptow-Köpenick, Berlin, 12559, Deutschland",871f18b46ffffff
+Berlin,6,1,52.46554291813439,13.55575725046448,"Rudolf-Rühl-Allee, Köpenick, Treptow-Köpenick, Berlin, 12555, Deutschland",871f18b74ffffff
+Berlin,7,2,52.466615269956904,13.289258487713875,"Villa Stauss, 14, Pacelliallee, Dahlem, Steglitz-Zehlendorf, Berlin, Teltow, 14195, Deutschland",871f1d49affffff
+Berlin,8,2,52.44729068849134,13.5393428069605,"Kattunsteig, Adlershof, Treptow-Köpenick, Berlin, 12489, Deutschland",871f18b76ffffff
+Berlin,9,3,52.48270025393419,13.270247395522011,"Residenz des Botschafters der Republik Korea, 12, Menzelstraße, Grunewald, Charlottenburg-Wilmersdorf, Berlin, 14193, Deutschland",871f1d49effffff
+Berlin,10,3,52.56437402049712,13.477270508094552,"140, Bitburger Straße, Weißensee, Pankow, Berlin, 13088, Deutschland",871f1d4f1ffffff
+München,1,0,48.10125824920193,11.683957900418793,"Schrammingerweg, Grenzkolonie Trudering, Waldtrudering, Trudering-Riem, München, Bayern, 81827, Deutschland",871f8d7a8ffffff
+München,2,0,48.1198929623947,11.4499472679921,"18, Lohenstraße, Lochham, Gräfelfing, Landkreis München, Bayern, 82166, Deutschland",871f8d453ffffff
+München,3,1,48.12069836149322,11.69881090753661,"Brünnsteinstraße, Gronsdorf, Haar, Landkreis München, Bayern, 85540, Deutschland",871f8d7adffffff
+München,4,1,48.1689667492405,11.611413895211708,"Baumschulstraße, Alte Heide - Hirschau, Schwabing-Freimann, München, Bayern, 80805, Deutschland",871f8d449ffffff
+München,5,2,48.13763513579932,11.680682488712309,"Töginger Straße, Messestadt Riem, Trudering-Riem, München, Bayern, 81829, Deutschland",871f8d713ffffff
+München,6,2,48.161355638146105,11.512481215795843,"Kindergarten Kuglmüllerstraße 27, 27, Kuglmüllerstraße, Nederling, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80638, Deutschland",871f8d443ffffff
+München,7,2,48.11568643091908,11.63286001927241,"Michaelibad, Heinrich-Wieland-Straße, Neuperlach, Ramersdorf-Perlach, München, Bayern, 81735, Deutschland",871f8d7a1ffffff
+München,8,2,48.136781507611325,11.431782929981411,"25, Mozartstraße, Lochham, Gräfelfing, Landkreis München, Bayern, 82166, Deutschland",871f8d450ffffff
+München,9,2,48.18839905987119,11.626256817080098,"Floriansmühlstraße, Kulturheim, Obere Isarau, Schwabing-Freimann, München, Bayern, 80939, Deutschland",871f8d732ffffff
+München,10,3,48.175684953431315,11.461348225018522,"Pippinger Straße, Untermenzing-Allach, Allach-Untermenzing, München, Bayern, 81247, Deutschland",871f8d446ffffff
+Hamburg,1,0,53.52343284630329,10.080746943033496,"Halskestraße, Billbrook, Hamburg-Mitte, Hamburg, 22113, Deutschland",871f15374ffffff
+Hamburg,2,0,53.52658070552427,10.116069039461875,"26, Rotenbrückenweg, Kirchsteinbek, Billstedt, Hamburg-Mitte, Hamburg, 22113, Deutschland",871f15375ffffff
+Hamburg,3,1,53.60231710452298,10.016833345406699,"Jahnring, Winterhude, Hamburg-Nord, Hamburg, 22297, Deutschland",871f15ac6ffffff
+Hamburg,4,1,53.57443617340339,9.895396909369596,"Trabrennbahn, Luruper Chaussee, Bahrenfeld, Altona, Hamburg, 22761, Deutschland",871f15a88ffffff
+Hamburg,5,1,53.556115401640625,9.879970670556974,"20, Grottenstraße, Othmarschen, Altona, Hamburg, 22605, Deutschland",871f15a8affffff
+Hamburg,6,1,53.538590691133166,10.060910778181242,"86, Mühlenhagen, Rothenburgsort, Hamburg-Mitte, Hamburg, 20539, Deutschland",871f15adaffffff
+Hamburg,7,3,53.614254418606606,9.96161670073026,"Langer Weg, Niendorf, Eimsbüttel, Hamburg, 22453, Deutschland",871f15af0ffffff
+Hamburg,8,3,53.577638834367434,9.93070761209182,"Försterweg, Stellingen, Eimsbüttel, Hamburg, 22525, Deutschland",871f15a89ffffff
+Hamburg,9,4,53.59594966641649,9.946157185112884,"Norddeutscher Rundfunk, 1, Hugh-Greene-Weg, Lokstedt, Eimsbüttel, Hamburg, 22529, Deutschland",871f15af2ffffff
+Hamburg,10,4,53.553740171790366,10.041067062507446,"9, Grevenweg, Borgfelde, Hamburg-Mitte, Hamburg, 20537, Deutschland",871f15adeffffff
